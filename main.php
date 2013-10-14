@@ -13,7 +13,7 @@ Copyright 2013 Sol Marchessault (sol@archetyped.com)
 
 /**
  * Extend Simple Lightbox's Image handler
- * Adds support for Steam screenshots
+ * Adds support for Steam (steampowered.com) user screenshots
  * @param bool $match TRUE if $uri has already been matched
  * @param string $uri URI to match
  * @return bool TRUE if match found for URI
