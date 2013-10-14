@@ -1,4 +1,4 @@
-slb_content-handler_image_match_example.
-========================================
+# Simple Lightbox: Extending Image Content Handler Example
+***
 
 Example add-on for extending Simple Lightbox's Image Content Handler
